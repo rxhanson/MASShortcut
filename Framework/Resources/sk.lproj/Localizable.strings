@@ -1,0 +1,47 @@
+/* Cancel action button in recording state */
+"Cancel" = "Zrušiť";
+
+/* Tooltip for non-empty shortcut button */
+"Click to record new shortcut" = "Klikni pre nahratie novej skratky";
+
+/* Tooltip for hint button near the non-empty shortcut */
+"Delete shortcut" = "Odstrániť skratku";
+
+/* Alert button when shortcut is already used */
+"OK" = "OK";
+
+/* Empty shortcut button in normal state */
+"Record Shortcut" = "Nahraj skratku";
+
+/* VoiceOver: Shortcut cleared */
+"Shortcut cleared" = "Skratka vymazaná";
+
+/* VoiceOver: Shortcut set */
+"Shortcut set" = "Skratka nastavená";
+
+/* Shortcut glyph name for SPACE key */
+"Space" = "Medzerník";
+
+/* Title for alert when shortcut is already used */
+"The key combination %@ cannot be used" = "Kombinácia kláves %@ sa nemôže použiť";
+
+/* Message for alert when shortcut is already used by the system */
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Táto kombinácia sa nemôže použiť, pretože ju už používa klávesová skratka pre celý systém. Ak naozaj chceš použiť túto klávesovú kombináciu, väčšinu skratiek možno zmeniť v Systémové nastavenia > Klávesnica > Klávesové skratky.";
+
+/* Message for alert when shortcut is already used */
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Táto skratka sa nemôže použiť, pretože ju už používa položka menu ‘%@’.";
+
+/* VoiceOver shortcut help */
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Pre nahranie novej skratky, klikni na toto tlačidlo a potom zadaj novú skratku alebo stlač Odstrániť na vymazanie existujúcej skratky.";
+
+/* Non-empty shortcut button in recording state */
+"Type New Shortcut" = "Zadaj novú skratku";
+
+/* Empty shortcut button in recording state */
+"Type Shortcut" = "Zadaj skratku";
+
+/* Cancel action button for non-empty shortcut in recording state */
+"Use Old Shortcut" = "Použiť starú skratku";
+
+/* VoiceOver title */
+"keyboard shortcut" = "klávesová skratka";
