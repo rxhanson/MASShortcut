@@ -6,8 +6,14 @@
 {
     CGRect paddedFrame = cellFrame;
     
+    //fix display on Tahoe
+    if (@available(macOS 26, *)) {
+        paddedFrame.size.width += 5.0;
+        paddedFrame.origin.y -= 1.0;
+    }
+    
     //fix display on Big Sur
-    if (@available(macOS 11, *)) {
+    else if (@available(macOS 11, *)) {
         
         //fix vertical alignment
         paddedFrame.origin.y -= 1.0;
