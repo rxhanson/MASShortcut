@@ -39,7 +39,7 @@
 
 - (void) setAssociatedUserDefaultsKey: (NSString*) newKey
 {
-    [self setAssociatedUserDefaultsKey:newKey withTransformerName:NSKeyedUnarchiveFromDataTransformerName];
+    [self setAssociatedUserDefaultsKey:newKey withTransformerName:NSSecureUnarchiveFromDataTransformerName];
 }
 
 @end
