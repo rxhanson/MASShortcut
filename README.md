@@ -1,4 +1,7 @@
-This is a fork of the excellent https://github.com/cocoabits/MASShortcut, for storing and using system-wide keyboard shortcuts. It's used in Rectangle.
+This is a fork of the excellent https://github.com/cocoabits/MASShortcut, for storing and using system-wide keyboard shortcuts. 
+
+It's used in [Rectangle](https://github.com/rxhanson/Rectangle).
+
 * Record and display keyboard shortcuts
 * Watch for shortcuts and execute actions, system-wide
 
